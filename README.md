@@ -3,7 +3,7 @@
 <p>
 💬 Meu nome é Leonardo de Melo Soares, tenho 17 anos, sou desenvolvedor web e técnico em informática.
   
-🤓 Atualmente, estou desempregado e esperando o início do processo de matrícula para entrar na Universidade Federal do Rio de Janeiro (UFRJ) no curso Ciências Matemáticas e da Terra.
+🤓 Atualmente, estou cursando Ciências Matemáticas e da Terra (BCMT) na Universidade Federal do Rio de Janeiro (UFRJ).
 
 🖥 As principais tecnologias que domino são: JavaScript, SASS, PHP, ReactJS, NodeJS, SQL e MongoDB.
 
