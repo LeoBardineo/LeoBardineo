@@ -5,7 +5,7 @@
   
 🤓 Atualmente, estou cursando Ciências Matemáticas e da Terra (BCMT) na Universidade Federal do Rio de Janeiro (UFRJ).
 
-🖥 As principais tecnologias que domino são: JavaScript, SASS, PHP, ReactJS, NodeJS, SQL e MongoDB.
+🖥 As principais tecnologias que domino são: JavaScript, PHP, ReactJS, NodeJS, MySQL e MongoDB.
 
 🎮 Gosto de jogar, principalmente LoL e Valorant, assistir animes (meu preferido é Shingeki no Kyojin) e escutar músicas.
 
