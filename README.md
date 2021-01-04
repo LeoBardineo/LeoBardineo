@@ -1,7 +1,7 @@
 ## Olá, tudo bem? Seja bem-vindo ao meu perfil do GitHub
 
 <p>
-💬 Meu nome é Leonardo de Melo Soares, tenho 17 anos, sou desenvolvedor web e técnico em informática.
+💬 Meu nome é Leonardo de Melo Soares, tenho 18 anos, sou desenvolvedor web e técnico em informática.
   
 🤓 Atualmente, estou cursando Ciências Matemáticas e da Terra (BCMT) na Universidade Federal do Rio de Janeiro (UFRJ).
 
