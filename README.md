@@ -7,7 +7,7 @@
 
 🖥 As principais tecnologias que domino são: JavaScript, PHP, ReactJS, NodeJS, MySQL e MongoDB.
 
-🎮 Gosto de jogar, principalmente LoL e Valorant, assistir animes (meu preferido é Shingeki no Kyojin) e escutar músicas.
+🎮 Gosto de jogar, principalmente LoL e Valorant, assistir animes e escutar músicas (minha artista favorita é a Aurora).
 
 ✉ Entre em contato: <br />
 [![Gmail Badge](https://img.shields.io/badge/devleo.contato@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devleo.contato@gmail.com)](mailto:devleo.contato@gmail.com) <br />
