@@ -1,6 +1,6 @@
 <samp>
   <p align="center">
-    <h2> hello there! how you doing? </h2> <br/>
+    <b> hello there! how you doing? </b> <br/>
     welcome to my profile, hope you have a great day :) <br/>
     <img alt="Skeleton holding a mug with a floating computer" src="https://64.media.tumblr.com/58d8a7c0e3c64f7e4505cdb4091eb159/tumblr_ozrtbsdD871w4zyh1o5_500.gifv" width="200" > <br/>
     (this is literally me) <br/>
