@@ -7,7 +7,7 @@
   </p>
   some info about me:
   <ul>
-    <li> my name is Leonardo de Melo Soares, i am brazilian, 19 years old, and vegetarian </li>
+    <li> my name is Leonardo de Melo Soares, i am brazilian, and 19 years old </li>
     <li> i am currently studying computer science at Federal University of Rio de Janeiro (UFRJ) </li>
     <li> i like to play games, watch anime and listen to some music (i love Aurora) </li>
     <li> my pronouns are he/him </li>
