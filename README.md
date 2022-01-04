@@ -5,14 +5,14 @@
     <img alt="Skeleton holding a mug with a floating computer" src="https://64.media.tumblr.com/58d8a7c0e3c64f7e4505cdb4091eb159/tumblr_ozrtbsdD871w4zyh1o5_500.gifv" width="200" > <br/>
     (this is literally me) <br/>
   </p>
-  some info about me:
+  <b> some info about me: </b>
   <ul>
     <li> my name is Leonardo de Melo Soares, I am brazilian, and 19 years old </li>
     <li> I am currently studying computer science at Federal University of Rio de Janeiro (UFRJ) </li>
     <li> I like to play games, watch anime and listen to some music (I love Aurora) </li>
     <li> my pronouns are he/him </li>
   </ul>
-  technologies I know:
+  <b> technologies I know: </b>
   <ul>
     <li> HTML5, CSS3, JavaScript, TypeScript, ReactJS </li>
     <li> PHP, NodeJS, Python, C/C++ </li>
@@ -34,7 +34,7 @@
 
   <img alt="Skeleton putting infinite coffee in a mug" align="right" src="https://64.media.tumblr.com/250faa2de4c15934d02d064d85cd9e41/tumblr_neyqoyrM051qza1qzo1_500.gifv" width="200" >
 
-  contact me: <br />
+  <b> contact me: </b> <br />
   <adress>
   📧 [E-mail](mailto:devleo.contato@gmail.com) <br />
   🎮 [Discord](https://discordapp.com/users/198943365990055936) <br />
