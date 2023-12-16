@@ -9,7 +9,7 @@
   <ul>
     <li> my name is Leonardo de Melo Soares, I am brazilian, and 20 years old </li>
     <li> I am currently studying computer science at Federal University of Rio de Janeiro (UFRJ) </li>
-    <li> I like to play games, watch anime and listen to some music (I love Aurora) </li>
+    <li> I like to play games, watch anime and listen to some music </li>
     <li> my pronouns are he/him </li>
   </ul>
   <b> technologies I know: </b>
